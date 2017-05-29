@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+/Users/nicholaswhite/Desktop/GitHub/blackjack/src/.metadata/.plugins/org.eclipse.jdt.core
+3162269900.index
